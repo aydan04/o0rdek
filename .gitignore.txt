@@ -1,0 +1,4 @@
+.index.html
+.index.htmll.txt
+.read.html
+.task.txt
